@@ -1,6 +1,6 @@
-# 마마인드 (MaMind) - 심리 상담 중개 플랫폼
+# 마마인드 (Mamind) - 심리 상담 중개 플랫폼
 
-![마마인드 로고](./public/logo.png)
+https://youtube.com/shorts/b7zy3Oqc0bs
 
 마마인드는 사용자의 심리 상태를 진단하고, 자가 관리 및 전문 상담사 연결을 제공하는 심리 상담 중개 플랫폼입니다. 사용자는 심리 테스트를 통해 자신의 상태를 파악하고, 개인적 노력이나 전문가의 도움을 통해 심리 건강을 관리할 수 있습니다.
 
@@ -145,23 +145,9 @@ yarn build
 
 빌드된 파일은 `build` 디렉토리에 생성됩니다.
 
-## 기여하기
+# Mamind - Psychological Counseling Platform
 
-1. 이 저장소를 포크합니다.
-2. 새 기능 브랜치를 생성합니다 (`git checkout -b feature/amazing-feature`).
-3. 변경 사항을 커밋합니다 (`git commit -m 'Add some amazing feature'`).
-4. 브랜치에 푸시합니다 (`git push origin feature/amazing-feature`).
-5. Pull Request를 생성합니다.
-
-## 라이선스
-
-이 프로젝트는 [라이선스 이름] 라이선스 하에 배포됩니다.
-
----
-
-# MaMind - Psychological Counseling Platform
-
-![MaMind Logo](./public/logo.png)
+https://youtube.com/shorts/b7zy3Oqc0bs
 
 MaMind is a psychological counseling platform that diagnoses users' mental states and provides self-management and professional counselor connections. Users can understand their condition through psychological tests and manage their mental health through personal efforts or professional help.
 
@@ -305,15 +291,3 @@ yarn build
 ```
 
 The built files will be created in the `build` directory.
-
-## Contributing
-
-1. Fork this repository.
-2. Create a new feature branch (`git checkout -b feature/amazing-feature`).
-3. Commit your changes (`git commit -m 'Add some amazing feature'`).
-4. Push to the branch (`git push origin feature/amazing-feature`).
-5. Create a Pull Request.
-
-## License
-
-This project is distributed under the [License Name] license.
