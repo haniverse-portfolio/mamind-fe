@@ -1,6 +1,6 @@
 # 마마인드 (Mamind) - 심리 상담 중개 플랫폼
 
-https://youtube.com/shorts/b7zy3Oqc0bs
+[![Video Label](http://img.youtube.com/vi/b7zy3Oqc0bs/0.jpg)](https://youtu.be/b7zy3Oqc0bs)
 
 마마인드는 사용자의 심리 상태를 진단하고, 자가 관리 및 전문 상담사 연결을 제공하는 심리 상담 중개 플랫폼입니다. 사용자는 심리 테스트를 통해 자신의 상태를 파악하고, 개인적 노력이나 전문가의 도움을 통해 심리 건강을 관리할 수 있습니다.
 
