@@ -304,6 +304,7 @@ const TestPage = () => {
                 {(sectionIndex + 1) * 5 >= testItem.length
                   ? "완료하기"
                   : "다음문항"}
+                로
               </Button>
             </Stack>
           </>

@@ -110,8 +110,8 @@ const TrialPage = () => {
             <Center className="mt-12">
               <img
                 src={(testDemo[problemIdx] || { image: "" }).image}
-                width={240}
-                height={168}
+                width={200}
+                height={128}
               />
             </Center>
 
